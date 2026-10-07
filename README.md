@@ -380,6 +380,11 @@ Contributions are welcome. Please follow the project conventions in [`AGENTS.md`
 
 ---
 
-## License
+Author & Contact
+Raees Ahmad
 
-No license has been specified yet. Add a `LICENSE` file (for example MIT or Apache-2.0) to clarify how others may use this project.
+GitHub	https://github.com/raeesgul488
+LinkedIn	https://www.linkedin.com/in/raees-ahmad-336a57355/?isSelfProfile=true
+Email	raeesahm65@@gmail.com
+Questions, bug reports, and pull requests are welcome. Open an issue or reach out directly.
+
