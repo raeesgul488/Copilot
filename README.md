@@ -1,4 +1,4 @@
-# Voice-Enabled, Local-AI Assistant
+# Copilot — Voice-Enabled, Local-First AI Assistant
 
 > An interactive AI assistant with **real-time voice conversation**, **photo and PDF understanding**, and a **local-first model strategy**: it runs models on your own machine through Ollama and falls back to cloud providers (Anthropic, OpenAI, Google Gemini, xAI Grok, Meta Llama) only when needed.
 
@@ -380,10 +380,14 @@ Contributions are welcome. Please follow the project conventions in [`AGENTS.md`
 
 ---
 
-Author & Contact
-Raees Ahmad
-GitHub	https://github.com/raeesgul488
-LinkedIn https://www.linkedin.com/in/raees-ahmad-336a57355/?isSelfProfile=true
-Email	raeesahm65@@gmail.com
-Questions, bug reports, and pull requests are welcome. Open an issue or reach out directly.
+## Author & Contact
 
+**Raees Ahmad**
+
+| | |
+| --- | --- |
+| **GitHub** | [github.com/raeesgul488](https://github.com/raeesgul488) |
+| **LinkedIn** | [Raees Ahmad](https://www.linkedin.com/in/raees-ahmad-336a57355/) |
+| **Email** | [raeesahm65@gmail.com](mailto:raeesahm65@gmail.com) |
+
+Questions, bug reports, and pull requests are welcome. Open an [issue](https://github.com/raeesgul488/Copilot/issues) or reach out directly.
